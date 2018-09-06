@@ -6,7 +6,7 @@ SDIF files can be produced by [OpenMusic](http://repmus.ircam.fr/openmusic/) and
 
 See also: 
 * Jean Bresson, Marlon Schumacher. [Representation and Interchange of Sound Spatialization Data for Compositional Applications](https://hal.archives-ouvertes.fr/hal-01169015). International Computer Music Conference, Huddersfield, United Kingdom, 2011.
-Jean Bresson. [Spatial Structures Programming for Music](https://hal.archives-ouvertes.fr/hal-01161314). Spatial Computing Workshop (SCW), Valencia, Spain, 2012.
+* Jean Bresson. [Spatial Structures Programming for Music](https://hal.archives-ouvertes.fr/hal-01161314). Spatial Computing Workshop (SCW), Valencia, Spain, 2012.
 
 
 --------
