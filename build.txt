@@ -1,0 +1,2 @@
+open thispatcher
+appicon [...PATH_TO_HERE_...]/Spat-SDIF-Player.icns
