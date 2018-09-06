@@ -12,8 +12,6 @@ SDIF files can be produced by [OpenMusic](http://repmus.ircam.fr/openmusic/) and
 * MuBu for Max by ISMM ©Ircam-Centre Pompidou: http://forumnet.ircam.fr/fr/produit/mubu/
 * CNMAT Max/MSP Externals (OSC) ©UC Berkeley: http://cnmat.berkeley.edu/downloads
 
-<img src="https://github.com/j-bresson/Spat-SDIF-Player/blob/master/images/spat-sdif-player-om-max.png" width=600 aligh="right">
-
 --------
 Jean Bresson — IRCAM / CIRMMT — 2010-2011.
 
