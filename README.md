@@ -8,10 +8,14 @@ SDIF files can be produced by [OpenMusic](http://repmus.ircam.fr/openmusic/) and
 * Jean Bresson, Marlon Schumacher. [Representation and Interchange of Sound Spatialization Data for Compositional Applications](https://hal.archives-ouvertes.fr/hal-01169015). International Computer Music Conference, Huddersfield, United Kingdom, 2011.
 * Jean Bresson. [Spatial Structures Programming for Music](https://hal.archives-ouvertes.fr/hal-01161314). Spatial Computing Workshop (SCW), Valencia, Spain, 2012.
 
+--------
+
+#### Dependencies
+
+* MuBu for Max by ISMM ©Ircam-Centre Pompidou: http://forumnet.ircam.fr/fr/produit/mubu/
+* CNMAT Max/MSP Externals (OSC) ©UC Berkeley: http://cnmat.berkeley.edu/downloads
 
 --------
 Jean Bresson — IRCAM / CIRMMT — 2010-2011.
 
-**Spat-SDIF-Player uses:** 
-* MuBu for Max by ISMM ©Ircam-Centre Pompidou
-* CNMAT-Externals (OSC) ©UC Berkeley
+
