@@ -2,7 +2,7 @@
 
 # Spat-SDIF-Player
 
-Spat-SDIF-Player is Max utility allowing to load spatialization data stored in [SDIF](http://sdif.sourceforge.net/) and stream them as as [SpatDIF](http://www.spatdif.org/)-compliant [OSC](http://opensoundcontrol.org/) messages to any OSC-compatible application.
+Spat-SDIF-Player is a Max patch or standalone application allowing to load spatialization data stored in [SDIF](http://sdif.sourceforge.net/) format, and to stream them as [SpatDIF](http://www.spatdif.org/)-compliant [OSC](http://opensoundcontrol.org/) messages to any OSC-compatible application.
 
 SDIF files can be produced by [OpenMusic](http://repmus.ircam.fr/openmusic/) and the [OM-Spat](http://support.ircam.fr/docs/om-libraries/main/co/OM-Spat.html) library's SPAT-MATRIX objects using SAVE-SPAT-SDIF.
 
