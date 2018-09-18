@@ -26,3 +26,7 @@ Jean Bresson — IRCAM / CIRMMT — 2010-2011.
 
 <img src="https://github.com/j-bresson/Spat-SDIF-Player/blob/master/images/spat-sdif-player-om-max.png" width=600 aligh="right">
 
+
+##### Note for iuse in OpenMusic 
+
+It is possible to control **Spat-SDIF-Player** from OpenMusic, via OSC communication on the "Incoming OSC" port (top-right of the window).  When an SDIFFile object is "played" from OM (selected + 'space' key), its pathname is sent for loading and rendering on the default OSC port.
