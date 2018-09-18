@@ -6,6 +6,8 @@ Spat-SDIF-Player is a Max patch or standalone application allowing to load spati
 
 SDIF files can be produced by [OpenMusic](http://repmus.ircam.fr/openmusic/) and the [OM-Spat](http://support.ircam.fr/docs/om-libraries/main/co/OM-Spat.html) library's SPAT-MATRIX objects using SAVE-SPAT-SDIF.
 
+Only position data (SDIF frames/matrices of type "XSRC"/"XCAR"), orientation ("XSRC"/"XORI") and aperture ("XSRC"/"XAPE") are loaded in the player. 
+
 --------
 #### Dependencies
 
