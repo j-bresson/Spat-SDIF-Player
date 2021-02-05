@@ -15,7 +15,7 @@ Only position data (SDIF frames/matrices of type "XSRC"/"XCAR"), orientation ("X
 * CNMAT Max/MSP Externals (OSC) ©UC Berkeley: http://cnmat.berkeley.edu/downloads
 
 --------
-Jean Bresson — IRCAM / CIRMMT — 2010-2011.
+Jean Bresson, Marlon Schumacher — IRCAM / CIRMMT — 2010-2011.
 
 
 --------
